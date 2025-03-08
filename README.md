@@ -39,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/h0zd8lpmwxy637v6kkq0u1rh5">
